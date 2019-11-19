@@ -9,7 +9,7 @@
     "eslint-plugin-babel": "^5.1.0",
     "eslint-plugin-react": "^7.10.0",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "react-json-view": "^1.19.0",
     "react-scripts": "1.1.4"
   },
